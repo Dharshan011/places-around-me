@@ -4,9 +4,17 @@ To develop a website to display details about the places around my house.
 
 ## Design Steps:
 
-### Step 1:
-Write your own steps here.
-### Step 2:
+## Step 1:
+clone the github repository into theia IDE.
+
+## Step 2:
+create a new Django project.
+
+## Step 3:
+write the needed HTML code.
+
+## step 4:
+Run the Django server and execute the HTML files.
 
 ## Code:
 ## map
