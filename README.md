@@ -150,7 +150,5 @@ NADUPATTI
 
 
 
-
-
 ## Result:
 Write your result
