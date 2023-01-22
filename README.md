@@ -9,7 +9,8 @@ Write your own steps here.
 ### Step 2:
 
 ## Code:
-map
+## map
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -27,8 +28,9 @@ map
 </map>
 </body>
 </html>
- 
+ ```
 MORAPPUR
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -64,8 +66,9 @@ More Facts:
 
 </body>
 </html>
-
+```
 APPITYAMPATTY
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -82,9 +85,9 @@ APPITYAMPATTY
 <p>It is the small village but many members living happily in that village</p>
 </body>
 </html>
-
+```
 AVALAMPATTI
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -103,9 +106,9 @@ AVALAMPATTI
 </html>
 </body>
 </html>
-
+```
 MUNEESWARAN TEMPLE
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -121,9 +124,9 @@ MUNEESWARAN TEMPLE
 
 <h3>Lakhs of pepole visit the temple every month</h3>
 </html>
-
+```
 NADUPATTI
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -140,7 +143,7 @@ NADUPATTI
 <p>The total geographical area of village is 512.34 hectares.</p>
 </body>
 </html>
-
+```
 ## Output:
 
 
