@@ -146,7 +146,17 @@ NADUPATTI
 ```
 ## Output:
 
+![ex1](https://user-images.githubusercontent.com/113497491/213926815-36846097-3c0c-442a-84db-3bd86e2b0f73.png)
 
+![ex2](https://user-images.githubusercontent.com/113497491/213926853-e092c720-718a-4295-8575-6a0362130266.png)
+
+![ex3](https://user-images.githubusercontent.com/113497491/213926871-d7bbebb7-5188-4168-93e5-ef806336d7c7.png)
+
+![ex4](https://user-images.githubusercontent.com/113497491/213926891-19ea52ad-0399-406e-9b4f-7e22291125f1.png)
+
+![ex5](https://user-images.githubusercontent.com/113497491/213926970-c1548dfa-9315-49a5-abb1-deda33307898.png)
+
+![ex6](https://user-images.githubusercontent.com/113497491/213927010-d21145af-929b-44bf-8df4-4300a9d8d872.png)
 
 
 
