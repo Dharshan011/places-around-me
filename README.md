@@ -161,4 +161,4 @@ NADUPATTI
 
 
 ## Result:
-Write your result
+Successfully developed a webpage for each location and linked it to the image region.
