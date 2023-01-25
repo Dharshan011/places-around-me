@@ -45,14 +45,10 @@ MORAPPUR
   <title> MOARPPUR </title>
 </head>
 <body style="background-color: rgba(147, 158, 83, 0.836);">
-
 <h1>MORAPPUR</h1>
-
-
 <h2>About Us</h2>
 <p>
 Morappur block is a revenue block in the Dharmapuri district of Tamil Nadu, India.
-
 More Facts:
 <ol>
 <li> It has a total of 43 panchayat villages.</li>
@@ -63,15 +59,8 @@ More Facts:
 <ol>
     <li>Singarathoppu Munishwarar,Every Month Lakhs of people Visiting the temple.</li>
     <li>Morappur has a government hospital and good agricultural development.</li>
-    
-
-
 </ol>
-
 <P>Morappur village is located in Harur taluka of Dharmapuri district in Tamil Nadu, India. It is situated 12km away from sub-district headquarter Harur</p>
-
-
-
 </body>
 </html>
 ```
@@ -83,7 +72,6 @@ APPITYAMPATTY
   <title> APPIYAMAPATTY </title>
 </head>
 <body style="background-color: #FFE9F8;">
-
 <h1> APPIYAMPATTY </h1>
 <h2>SMALL VILLAGE</h2>
 <p>Appiyampatti is a Village in Thoppampatti Block in Dindigul District of Tamil Nadu State, India. It is located 57 KM towards west</p>
@@ -102,7 +90,6 @@ AVALAMPATTI
   <title> AVALAMPATTI </title>
 </head>
 <body style="background-color: #FFE9F8;">
-
 <h1> AVALAMPATTI </h1>
 <h2>SMALL VILLAGE</h2>
 <p>Avalampatti is a small Village/hamlet in Morappur Block in Dharmapuri District of Tamil Nadu State, India.</p>
@@ -123,13 +110,10 @@ MUNEESWARAN TEMPLE
   <title> MUNEESWARAN TEMPLE </title>
 </head>
 <body style="background-color: #E9FFF0;">
-
 <h1> MUNEESWARAN TEMPLE </h1>
 <h2>MUNEESWARAN temple in morappur,dharmapuri</h2>
-
 <h3>It is one of the famous temple in morappur</h3>
 <h2>Things available in temple</h2>
-
 <h3>Lakhs of pepole visit the temple every month</h3>
 </html>
 ```
@@ -141,7 +125,6 @@ NADUPATTI
   <title> NADUPATTI </title>
 </head>
 <body style="background-color: #FFE9F8;">
-
 <h1> NADUPATTI </h1>
 <h2>SMALL VILLAGE</h2>
 <p>Nadupatti village is located in Harur taluka of Dharmapuri district in Tamil Nadu, India. It is situated 14km away from sub-district headquarter Harur</p>
